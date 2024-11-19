@@ -1,5 +1,5 @@
 #Copia seguridad
-*.bat
+*.bak
 
 # archivos .txt
 *.txt
